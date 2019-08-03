@@ -1,0 +1,12 @@
+{
+    "name": "medymik/paginator",
+    "description": "Paginator tool using it to paginate mysql data",
+    "authors": [
+        {
+            "name": "Mohammed Ymik",
+            "email": "contact@medymik.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
